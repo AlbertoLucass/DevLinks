@@ -90,6 +90,10 @@ body * {
     border-radius: 9999px;
 }
 
+button {
+    cursor: pointer;
+}
+
 ul {
     list-style: none;
     display: flex;
